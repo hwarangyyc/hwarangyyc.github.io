@@ -1,11 +1,11 @@
 # Site settings
-title: KOREA HWARANG
 email: hwarangyyc@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://HWARANGyyc.ca/
 keywords: "soccer, calgary, alberta, hwarang, korean"
-description: "Love Soccer? Participate, run, and score with your enthusiasm for soccer and inspire others at the Hwarang Football Club."
-slogan: "Love Soccer? Dribble, pass, and shoot!<br />Your enthusiasm and talent will inspire us."
-meta_author: Alex Seo
+description: "Love Soccer? Dribble, pass, and shoot! Your enthusiasm and talent will inspire us at the KOREA HWARANG football club."
+
+plugins:
+  - jekyll-polyglot
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -17,24 +17,6 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
-  hours: Hours
-  contact: Contact
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Genesis Centre
-  - line: 7555 Falconridge Blvd NE
-  - line: Calgary, AB T3J 0C9
-  
-# Hours
-hours:
-  - line: (Usually) Sundays
-  - line: 5:30 - 8:30 PM
-msg: Contact us prior to visit.
-
-# Contact
-contact: '<a href="https://open.kakao.com/o/sGzCGZEe" target="_blank">Kakao OpenChat</a> <br />or<br /><a href="mailto:hwarangyyc@gmail.com">hwarangyyc@gmail.com</a>'
 
 # Build settings
 markdown: kramdown
@@ -43,7 +25,16 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+    path: "_posts"
+    type: "posts"
+    lang: en    
+  - scope:
+    path: "_posts/ko"
+    type: "posts"
+    lang: ko
+
+# multilang
+languages: ["en", "ko"]
+default_lang: "en"
+parallel_localization: true
+lang_from_path: true

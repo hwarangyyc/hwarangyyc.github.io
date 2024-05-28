@@ -4,25 +4,25 @@
     <div class="container">
       <div class="row">
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.location }}</h3>
+          <h3>{{ site.data.l10n.footer.location }}</h3>
           <p>
-            {% for adress in site.address %}
+            {% for adress in site.data.l10n.address %}
             {{ adress.line }} <br>
             {% endfor %}
           </p>
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.hours }}</h3>
+          <h3>{{ site.data.l10n.footer.hours }}</h3>
           <p>
-            {% for hour in site.hours %}
+            {% for hour in site.data.l10n.hours %}
             {{ hour.line }} <br>
             {% endfor %}
-            <i>{{ site.msg }}</i>
+            <i>{{ site.data.l10n.msg }}</i>
           </p>
         </div>        
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.contact }}</h3>
-          <p>{{ site.contact }}</p>
+          <h3>{{ site.data.l10n.footer.contact }}</h3>
+          <p>{{ site.data.l10n.contact }}</p>
         </div>
       </div>
     </div>
