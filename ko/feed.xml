@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <link href="http://localhost:4000/ko/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/ko/" rel="alternate" type="text/html" />
-  <updated>2024-05-31T10:31:55-06:00</updated>
+  <updated>2024-06-03T13:42:46-06:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,44 +18,12 @@
   
   
     <entry xml:lang="ko">
-      <title type="html">Anniversary Ko</title>
-      <link href="http://localhost:4000/ko/2024/05/27/Anniversary-ko/" rel="alternate" type="text/html" title="Anniversary Ko" />
-      <published>2024-05-27T00:00:00-06:00</published>
-      <updated>2024-05-27T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2024/05/27/Anniversary-ko</id>
-      <content type="html" xml:base="http://localhost:4000/2024/05/27/Anniversary-ko/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry xml:lang="en">
       <title type="html">Anniversary</title>
-      <link href="http://localhost:4000/ko/2024/05/27/Anniversary/" rel="alternate" type="text/html" title="Anniversary" />
-      <published>2024-05-27T00:00:00-06:00</published>
-      <updated>2024-05-27T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2024/05/27/Anniversary</id>
-      <content type="html" xml:base="http://localhost:4000/2024/05/27/Anniversary/"></content>
+      <link href="http://localhost:4000/ko/2024/06/01/Anniversary/" rel="alternate" type="text/html" title="Anniversary" />
+      <published>2024-06-01T00:00:00-06:00</published>
+      <updated>2024-06-01T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2024/06/01/Anniversary</id>
+      <content type="html" xml:base="http://localhost:4000/2024/06/01/Anniversary/"></content>
 
       
       
@@ -82,38 +50,6 @@
     </entry>
   
     <entry xml:lang="ko">
-      <title type="html">Outdoor Ko</title>
-      <link href="http://localhost:4000/ko/2024/05/26/Outdoor-ko/" rel="alternate" type="text/html" title="Outdoor Ko" />
-      <published>2024-05-26T00:00:00-06:00</published>
-      <updated>2024-05-26T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2024/05/26/Outdoor-ko</id>
-      <content type="html" xml:base="http://localhost:4000/2024/05/26/Outdoor-ko/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry xml:lang="en">
       <title type="html">Outdoor</title>
       <link href="http://localhost:4000/ko/2024/05/26/Outdoor/" rel="alternate" type="text/html" title="Outdoor" />
       <published>2024-05-26T00:00:00-06:00</published>
@@ -146,44 +82,12 @@
     </entry>
   
     <entry xml:lang="ko">
-      <title type="html">Newbie Ko</title>
-      <link href="http://localhost:4000/ko/2024/05/25/Newbie-ko/" rel="alternate" type="text/html" title="Newbie Ko" />
-      <published>2024-05-25T00:00:00-06:00</published>
-      <updated>2024-05-25T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2024/05/25/Newbie-ko</id>
-      <content type="html" xml:base="http://localhost:4000/2024/05/25/Newbie-ko/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry xml:lang="en">
       <title type="html">Newbie</title>
-      <link href="http://localhost:4000/ko/2024/05/25/Newbie/" rel="alternate" type="text/html" title="Newbie" />
-      <published>2024-05-25T00:00:00-06:00</published>
-      <updated>2024-05-25T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2024/05/25/Newbie</id>
-      <content type="html" xml:base="http://localhost:4000/2024/05/25/Newbie/"></content>
+      <link href="http://localhost:4000/ko/2024/01/01/Newbie/" rel="alternate" type="text/html" title="Newbie" />
+      <published>2024-01-01T00:00:00-07:00</published>
+      <updated>2024-01-01T00:00:00-07:00</updated>
+      <id>http://localhost:4000/2024/01/01/Newbie</id>
+      <content type="html" xml:base="http://localhost:4000/2024/01/01/Newbie/"></content>
 
       
       
