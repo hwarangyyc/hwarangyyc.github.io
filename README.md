@@ -20,4 +20,4 @@ Visual assets on this Web are downloaded from [Unsplash](https://unsplash.com/) 
 
 This Web uses the [polygot](https://polyglot.untra.io) plug-in, which is copyright (C) 2023 Samuel Volin.
 
-This Web uses the [Freelancer Jekyll theme](https://jeromelachaud.com/freelancer-theme) theme/template, which is copyright (C) 2013-2018 Blackrock Digital LLC.
+This Web uses the [Freelancer](https://jeromelachaud.com/freelancer-theme) Jekyll theme, which is copyright (C) 2013-2018 Blackrock Digital LLC.
