@@ -2,7 +2,7 @@
 > The repository for HWARANGyyc.ca
 
 ## Deployment
-This Web is based on GitHub. To deploy the Web to GitHub, revise/update [the repository](https://github.com/hwarangyyc/hwarangyyc.ca) and copy/push the contents in the `_site` folder to this repository. 
+This Web is based on GitHub. To deploy the Web to GitHub, revise/update [this private repository](https://github.com/hwarangyyc/hwarangyyc) and copy/push the contents in the `_site` folder to [this repository](https://github.com/hwarangyyc/hwarangyyc.github.io). 
 
 ## Development
 ### Install Jekyll and gems
@@ -14,8 +14,7 @@ bundle install
 bundle exec jekyll serve</code>
 
 ## Disclaimer - Image credit and licensing
-
-Visual assets on this Web downloaded from [Unsplash](https://unsplash.com/) through Unsplash License agreement, which allows anyone to download and use for free and non-commercial purposes, including use in marketing and promotional materials. For more information, visit [here](https://unsplash.com/license).
+Visual assets on this Web are downloaded from [Unsplash](https://unsplash.com/) through the Unsplash License agreement, allowing anyone to download and use for free and non-commercial purposes, including marketing and promotional materials. For more information, visit [here](https://unsplash.com/license).
 
 This Web uses the [polygot](https://github.com/untra/polyglot) plug-in, which is copyright (C) 2023 Samuel Volin.
 
