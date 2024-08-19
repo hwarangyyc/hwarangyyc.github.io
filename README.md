@@ -1,23 +1,12 @@
-# HWARANGyyc
-> KOREA HWARANG Football Club in Calgary, Alberta, Canada
+# HWARANGyyc.ca source code in Jekyll
 
-The repository for [https://HWARANGyyc.ca/](https://HWARANGyyc.ca/)
+## Problem definition
+  * It seems like one of the GEMs, i.e., polyglot, which supports language switcher, is not supported by GitHub.
+  * This repo cannot be deployed and jekylled on-the-fly on github.com.
+  * Therefore, this repo serves a code repo to generate static Web pages and they will be pushed to the main on hwarangyyc.github.io.
 
-## Deployment
-This Web is based on GitHub. To deploy the Web to GitHub, revise/update [this private repository](https://github.com/hwarangyyc/hwarangyyc) and copy/push the contents in the `_site` folder to [this repository](https://github.com/hwarangyyc/hwarangyyc.github.io). 
-
-## Development
-### Install Jekyll and gems
-Visit the Quickstart/Docs: https://jekyllrb.com/docs/
-
-### Run the Jekyll on your local machine
+## To run Jekyll
 <code>gem install bundler
 bundle install
 bundle exec jekyll serve</code>
 
-## Disclaimer - Image credit and licensing
-Visual assets on this Web are downloaded from [Unsplash](https://unsplash.com/) through the Unsplash License agreement, allowing anyone to download and use for free and non-commercial purposes, including marketing and promotional materials. For more information, visit [here](https://unsplash.com/license).
-
-This Web uses the [polygot](https://polyglot.untra.io) plug-in, which is copyright (C) 2023 Samuel Volin.
-
-This Web uses the [Freelancer](https://jeromelachaud.com/freelancer-theme) Jekyll theme, which is copyright (C) 2013-2018 Blackrock Digital LLC.

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-08-19T11:06:20-06:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+
+  
+    <subtitle>Love Soccer? Dribble, pass, and shoot! Your enthusiasm and talent will inspire us at the KOREA HWARANG football club.</subtitle>
+  
+
+  
+
+  
+  
+    <entry xml:lang="en">
+      <title type="html">Anniversary</title>
+      <link href="http://localhost:4000/2024/06/01/Anniversary/" rel="alternate" type="text/html" title="Anniversary" />
+      <published>2024-06-01T00:00:00-06:00</published>
+      <updated>2024-06-01T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2024/06/01/Anniversary</id>
+      <content type="html" xml:base="http://localhost:4000/2024/06/01/Anniversary/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="en">
+      <title type="html">Outdoor</title>
+      <link href="http://localhost:4000/2024/05/26/Outdoor/" rel="alternate" type="text/html" title="Outdoor" />
+      <published>2024-05-26T00:00:00-06:00</published>
+      <updated>2024-05-26T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2024/05/26/Outdoor</id>
+      <content type="html" xml:base="http://localhost:4000/2024/05/26/Outdoor/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry xml:lang="en">
+      <title type="html">Newbie</title>
+      <link href="http://localhost:4000/2024/01/01/Newbie/" rel="alternate" type="text/html" title="Newbie" />
+      <published>2024-01-01T00:00:00-07:00</published>
+      <updated>2024-01-01T00:00:00-07:00</updated>
+      <id>http://localhost:4000/2024/01/01/Newbie</id>
+      <content type="html" xml:base="http://localhost:4000/2024/01/01/Newbie/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
